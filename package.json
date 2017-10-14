@@ -1,0 +1,17 @@
+{
+  "name": "getting-started",
+  "version": "1.0.0",
+  "description": "Just leaning three.js :)",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server -p 8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "0.10.0"
+  },
+  "dependencies": {
+    "@types/three": "^0.84.27"
+  }
+}
